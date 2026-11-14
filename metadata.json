@@ -1,0 +1,6 @@
+{
+  "name": "Manhwa Recap",
+  "description": "Upload multiple manhwa panel images and generate connected Hindi or English recap scripts with custom prompts, copy, TXT download, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
